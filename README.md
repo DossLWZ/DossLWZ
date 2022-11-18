@@ -1,0 +1,4 @@
+- 👋 Olá, o meu nome é @DossLWZ
+- :+1: meu email de contato é guilherme.cichocki@escola.pr.gov.br
+- 👀 Eu estou interressado em aprender astronomia
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
